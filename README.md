@@ -63,6 +63,7 @@ The `GreetingController.java` class handles HTTP GET requests to the `/greeting`
 </body>
 </html>
 
+
 ---
 
 ### Explanation of Additions:
