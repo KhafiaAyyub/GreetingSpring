@@ -62,15 +62,3 @@ The `GreetingController.java` class handles HTTP GET requests to the `/greeting`
     <h1 th:text="${message}">Greeting message will appear here!</h1>
 </body>
 </html>
-
-
----
-
-### Explanation of Additions:
-
-- **Detailed Overview**: This includes more information about the purpose and structure of the project, explaining how Spring Boot and Thymeleaf interact.
-- **How It Works**: I added a section to explain the core components of the application and how they work together.
-- **Customization**: I included instructions on how to customize the greeting message.
-- **Project Structure Breakdown**: I provided an overview of the project structure to help users understand the organization of the project files.
-
-This **`README.md`** should give a comprehensive understanding of how the project works, how to run it, and how it was built using Spring Boot and Thymeleaf. Let me know if you need further modifications!
