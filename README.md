@@ -1,4 +1,4 @@
-# GreetingSpring - A Spring Boot Web Application with Thymeleaf
+## GreetingSpring - A Spring Boot Web Application with Thymeleaf
 
 **GreetingSpring** is a simple web application built using **Spring Boot** for the backend and **Thymeleaf** for the frontend. This application serves a greeting message rendered dynamically on an HTML page. The project demonstrates how to integrate Spring Boot with Thymeleaf to display dynamic content on a web page. This project is designed for beginners to understand the basic concepts of building web applications with Spring Boot and Thymeleaf.
 
