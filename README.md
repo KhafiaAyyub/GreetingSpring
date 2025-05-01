@@ -8,12 +8,6 @@ The **GreetingSpring** project is a basic web application designed to demonstrat
 
 This project serves as an introductory example of how to build a web application using modern Java technologies and how to use **Spring Boot**'s simplicity in creating RESTful APIs and handling HTTP requests. **Thymeleaf**, the templating engine, is used to dynamically generate HTML content, where the greeting message from the backend is passed to the frontend and displayed.
 
-### Key Features:
-- **Dynamic Greeting**: The greeting message is generated dynamically on the server-side and passed to the view using the Thymeleaf templating engine.
-- **Spring Boot**: It provides the framework and server to run the application. Spring Boot automates configuration, allowing you to focus more on writing the application logic.
-- **Thymeleaf**: This Java-based templating engine is used to dynamically render HTML pages, making it a perfect solution for server-side rendering.
-- **Java 17+**: This application uses **Java 17** as the programming language, which comes with performance improvements and new features.
-
 ## Technologies Used
 
 - **Spring Boot**: A backend framework used for building stand-alone, production-grade web applications. Spring Boot simplifies the configuration and deployment of web applications.
