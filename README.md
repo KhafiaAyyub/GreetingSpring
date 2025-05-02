@@ -42,5 +42,4 @@ The `GreetingController.java` class handles HTTP GET requests to the `/greeting`
 ### 3. **Thymeleaf Template**:
 
 `greeting.html` is the Thymeleaf template responsible for rendering the content on the page. It uses the **Thymeleaf syntax** to inject the greeting message dynamically into the HTML page. For example, `${message}` is a placeholder that will be replaced by the actual greeting message passed from the backend.
-
 - The message from the Spring Boot controller is rendered on the page using the `th:text` attribute, which dynamically fills in the `message` value.
